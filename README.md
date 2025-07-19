@@ -3,8 +3,8 @@
 
 I graduated from Addis Ababa University, Faculty of Technology (Electrical and Computer Engineering)
 
-    - Master's Degree in Communication Engineering
-    - Bachelore Degree in Electrical and Electronics Engineering
+	-	Master's Degree in Communication Engineering
+ 	- 	Bachelore Degree in Electrical and Electronics Engineering
     
 My name is Dinsefo, my experiance is as a Developer and Production Support in:-
   - IBM product like Datapower, IIB, MQ, WTX/ITX, APIC, Mulesoft
